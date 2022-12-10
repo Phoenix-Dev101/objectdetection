@@ -1,0 +1,47 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+
+    overflow: hidden;
+        
+}
+
+/* img{
+    height: 600px;
+    width: 750px;
+    margin-top: 10px;
+    margin-left: 280px;
+    border-radius: 20px;
+    border: 20px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
+} */
+
+h1{
+font-family: 'Times New Roman', Times, serif;
+color: #b827fc;
+border-radius: 20px;
+border: 20px solid transparent;
+border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+border-image-slice: 1;
+
+}
+
+canvas{
+  
+   
+    border-radius: 20px;
+    border: 20px solid transparent;
+     border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1; 
+    
+}
+
+#status, #number_of_objects, #start_model{
+    
+    font-size: 18px;
+}
+
+
+
